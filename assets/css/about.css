@@ -29,7 +29,7 @@
 /* testimonials */
 #testimonials {
     height: 100%;
-    background: #004d40;
+    background: #000000;
     color: #fff;
 }
 
@@ -40,7 +40,7 @@
 }
 
 #testimonials div section{
-    background: #00796b;
+    background: #690752;
     padding: 20px;
     margin-bottom: 30px;
     border-radius: 10px;

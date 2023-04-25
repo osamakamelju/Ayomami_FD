@@ -1,4 +1,5 @@
 /* Navigations menu */
+
 header img {
     height: 60px;
     float: left;
@@ -7,55 +8,52 @@ header img {
     padding-top: 15px;
 }
 
-.login-container {
-    float: right;
-    padding : 0 10px 0 10px;
-    
-}
-
-
-
-/*span{
-    float: right;
-    padding : 0 10px 0 10px;
-}*/
-
 nav{
-    background: #9967d6;
-    overflow: auto;
-    position: sticky;
-    z-index: 1;
-    opacity: 0,9;
+     background: #9967d6;
+     overflow: visible; 
+     position: 
+     z-index: 1;
+     opacity: 0,9; 
 }
+
 
 nav a{
     color: #f4f4f4;
 }
+
 
 nav h1{
     text-align: center;
     padding-top: 1rem;
 }
 
+
+
 nav ul {
     list-style: none;
     padding-bottom: 1rem;
 }
 
+
+
 nav li{
     float: none;
 }
+
 
 nav ul li a {
     display: block;
     text-align: center;
 }
 
+
+
 nav ul li a:hover,
 nav ul li a.active{
     background: #5051a3;
     color: #ff1a1a;
 }
+
 
 @media(min-width: 768px){
     nav h1 {
@@ -76,3 +74,6 @@ nav ul li a.active{
         text-align: center;
     }
 }
+
+
+
